@@ -8,7 +8,7 @@ wheel>=0.29
 numpy
 pandas
 scikit-learn
-
+git+ssh://git@github.com/Olaf-Snow/trusttheprocess
 
 
 # tests/linter
@@ -29,5 +29,3 @@ six>=1.14
 joblib
 memoized-property
 termcolor
-
-
